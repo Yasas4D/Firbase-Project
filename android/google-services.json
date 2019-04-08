@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "845748588281",
+    "firebase_url": "https://projectuom-d608b.firebaseio.com",
+    "project_id": "projectuom-d608b",
+    "storage_bucket": "projectuom-d608b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845748588281:android:743b90e52d926e01",
+        "android_client_info": {
+          "package_name": "com.example.projectuom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845748588281-9ag91u8hme2poffj7uku5vjr6h84rasu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe_DRXFFk2gIaqYSdDNJyT1H2YUENd5Mo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
