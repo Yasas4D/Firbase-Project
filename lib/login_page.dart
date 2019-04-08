@@ -24,7 +24,7 @@ class _LoginPageState extends State<LoginPage> {
       print(_password);
       return true;
     } else {
-      print('Form is Null');
+      print('Form is Null or Empty');
       return false;
     }
   }
